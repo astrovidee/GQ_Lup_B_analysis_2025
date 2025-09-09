@@ -1,16 +1,15 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it as below.
-title: astrovidee/GQ_Lup_B_analysis_2025: citable_release
+title: "astrovidee/GQ_Lup_B_analysis_2025: citable_release"
 type: software
 authors:
   - given-names: Vidya
     family-names: Venkatesan
     affiliation: University of California, Irvine
-version: data
+version: "data"
 date-released: 2025-09-09
 abstract: >
-  This is the code used to generate plots for our ApJ paper paper-
-  (add title and doi when published)
+  This is the code used to generate plots for our ApJ paper (add title and DOI when published).
 repository-code: https://github.com/astrovidee/GQ_Lup_B_analysis_2025
 url: https://zenodo.org/records/17087542
 identifiers:
@@ -20,11 +19,11 @@ identifiers:
     value: https://github.com/astrovidee/GQ_Lup_B_analysis_2025
 preferred-citation:
   type: software
-  title: astrovidee/GQ_Lup_B_analysis_2025: citable_release
+  title: "astrovidee/GQ_Lup_B_analysis_2025: citable_release"
   authors:
     - given-names: Vidya
       family-names: Venkatesan
       affiliation: University of California, Irvine
-  version: data
+  version: "data"
   date-released: 2025-09-09
   url: https://zenodo.org/records/17087542
